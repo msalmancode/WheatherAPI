@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_580439171c21f6aa7c04c0d225a2b4c2ae7bdd70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_358b2bd3b6864c63b47b52bdf783511dfbff7930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_9aa3ce2a8e5d809770630d54c3d22468ce6a8e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_800490bbd5379d29fe183dbe59dbaaae17018bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_e23fe2f63aa7b8ceb101bdae69b28ffc3b08f146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_cec6d07ee9aa4a503ee4d064265dd42661d4b8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_01ca4da34c6867586fbdf79322496c9f0a2a4afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_90a57d49ef88d1490dd35664cc9da35f459195e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_5cda38f11383fcfa408eb1c8ab7b43d6811c4990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_ac8ccb22c91f885e1b35ed759de56a110a6bc333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_39a8ff0803861cfe517e2941d5721e8e39c70a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_f4a846e4e307e5d2b9251c517d2e828a3488ec3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_0fcdd4bac471ec08382ff25953c3b432ee907464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_7f5a92209f152d9f9d4c1af8e1d35a81104c021d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_93ee5cc87c0f64f93f0cd706f308b2dfcfebebbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_205ec204cc345c46a048b930316c2a0de3d55a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_38675097fe8f0a527f188b4436207bed1946657b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_ef0b143894f560e4a58865db422cea064917725c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_04b58b6bd9c56718af57b1f1bddfd7339781f70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_46a99313e0cbc9872ce43456a00f2f76c1be8a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_f8e039d2ac6c68e4729ce97fc7652b9855d22cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_5278a8c4564be3328b667840f7d0ba828417fe11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_520211f8e5e3f55ac5f29f494a5ecbb894bc8e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_7ad52ce058aa2ed1c44e9a499baa3d558ba578ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_7ed421e45026f84037ceb4a7e41d4314e8cf983b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_ab8be7b4cb820da647f255b861f2026a9c03313c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_e722bd1afee5473df1e2bdd020528919780d5325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_2d2094628ef9332fd9019dd2c360836303e24a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_6ef35514f162e9cbe07d015042d56b26fb68b990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_028a376f70cad7dd1df4296b193a027e1dce63cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_ff9be4360425057760b4e1a6a13a0dc73b3a62bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_fe7156c13efb94ddef0ec3802f4279a53b40327a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_755bae961b637b2822f2e6e34ef76fad4e3e63cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_49414a33d7bc255a7439633da3aec1ba922b9e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_346c9a9dd4e1047ca970964b0207bd332702ee05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Internee1\AndroidStudioProjects\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_130646bfed28c27df970542c324f14ca3a5b9c06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Salman\Tasks\WheatherAPI\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_3294675e16f519fde1501d94147b303fa7a47763.jar" />
+    </item>
+
+</items>

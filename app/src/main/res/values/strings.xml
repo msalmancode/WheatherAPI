@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WheatherAPI</string>
+    <string name="title_activity_display__data">Display_Data</string>
+</resources>

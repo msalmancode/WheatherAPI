@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        app:cardCornerRadius="15dp"
+        android:layout_margin="3dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tvDisplayTemp"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:text="Temp"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:textSize="20dp"
+
+                />
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="0dp"
+                android:layout_weight="5"
+                android:id="@+id/ivIcons"
+                android:src="@drawable/heavy_rain"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="2dp"
+                />
+            <TextView
+                android:id="@+id/tvDislaydays"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="3"
+                android:text="Monday"
+                android:gravity="center"
+                android:textSize="15dp"
+                android:background="@drawable/view_transparent"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
+

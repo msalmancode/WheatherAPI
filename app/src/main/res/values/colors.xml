@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3cbad6</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+<!--    Fore Color Define here !!-->
+    <color name="colorfont">#303030</color>
+    <color name="colorTemp">#e4e3e3</color>
+    <color name="colorTransparent">#443cbad6</color>
+    <color name="colorShape">#3cbad6</color>
+
+</resources>
